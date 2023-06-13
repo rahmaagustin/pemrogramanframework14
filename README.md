@@ -1,9 +1,12 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # pemrograman framework
 
 
 ## CodeIgniter
 =======
+=======
+>>>>>>> dec891a6d21a0dad6a978d58277bcd6b0a04efe5
 # pemrograman framework - CodeIgniter 4
 
 ## A. CodeIgniter 4
@@ -13,4 +16,7 @@
 
 
 ## B. Cara Install CodeIgniter 4
+<<<<<<< HEAD
+>>>>>>> dec891a6d21a0dad6a978d58277bcd6b0a04efe5
+=======
 >>>>>>> dec891a6d21a0dad6a978d58277bcd6b0a04efe5
